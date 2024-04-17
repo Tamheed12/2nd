@@ -1,0 +1,11 @@
+var places = ['New Zealand', 'Iceland', 'Japan', 'Norway', 'Pakiatan', 'Turkey', 'Arab'];
+console.log("Orignal order => ".concat(places));
+console.log("Alphabetical order => ".concat(places.sort(), "\n"));
+console.log("Orignal order => ".concat(places));
+console.log("Alphabetical and Reverse order => ".concat(places.sort().reverse(), "\n"));
+console.log("Orignal order => ".concat(places));
+console.log("Reversed order => ".concat(places.reverse(), "\n"));
+console.log("Orignal order => ".concat(places));
+console.log("Reverse and Alphabetical order => ".concat(places.reverse().sort(), "\n"));
+console.log("Orignal order => ".concat(places));
+console.log("Reverse order => ".concat(places.reverse(), "\n"));
